@@ -43,5 +43,5 @@ jobs:
           file: ./Dockerfile_prod
           push: true
           tags: |
-            s95376/lab10 
+            s95376/dockerlab10 
       
