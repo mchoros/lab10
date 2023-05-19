@@ -31,5 +31,5 @@ jobs:
           file: ./Dockerfile_prod
           push: true
           tags: |
-            spg51/lab:ghlab10base
+            s95376/lab:ghlab10base
           
