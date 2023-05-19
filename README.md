@@ -30,4 +30,4 @@ Budowanie przebiegło pomyślnie przed podłączeniem dockerhuba do repo.
 Po podłączeniu pomyślnie loguje, ale przy budowaniu występuje błąd autoryzacji, a co za tym idzie nie mogę wrzucić obrazów na dockerhuba.
 Token z dockerhuba został wygenerowany z pełnymi uprawnieniami, w sposób pokazany w skrypcie z zajęć.
 Logowanie do dockera przebiegło poleceniem pokazanym w skrypcie z potwierdzeniem 
-Nazwy tokenów są takie same jak te w plikach .yml, dla potwierdzenia dołączam screeny do repo.  
+Nazwy tokenów są takie same jak te w plikach .yml, dla potwierdzenia dołączam screeny do repo.
